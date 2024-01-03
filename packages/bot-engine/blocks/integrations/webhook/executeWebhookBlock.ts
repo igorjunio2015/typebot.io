@@ -39,6 +39,7 @@ export const longReqTimeoutWhitelist = [
   'https://www.chatbase.co',
   'https://channel-connector.orimon.ai',
   'https://api.anthropic.com',
+  'https://ai.lilcriket.co',
 ]
 
 export const webhookSuccessDescription = `Webhook successfuly executed.`
